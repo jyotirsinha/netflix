@@ -1,0 +1,72 @@
+body{
+    align-items: center;
+    /* background: black; */
+}
+
+.mainDiv{
+    background-color: black ;
+    border: 2px solid black;
+    height: 27rem;
+    width: 25%;
+}
+
+#hidden{
+    /* border: 2px solid white; */
+    height: 5rem;
+    width: 100%;
+    margin-top: 2%;
+    color: white;
+    /* display: none; */
+
+}
+.image{
+    /* border: 2px solid white; */
+    height: 15rem;
+    color: white;
+}
+#innimage{
+    height: 100%;
+    width: 100%;
+    color: white;
+}
+#buttonDiv{
+    margin: 3%;
+    height: auto;
+    color: white;
+    /* border: 2px solid black; */
+}
+.bar{
+    /* border: 2px solid white; */
+    color: white;
+    height: 25px;
+}
+
+#outside{
+    height: 100%;
+    width: 50%;
+    background-color: white;
+    border-radius: 12px;
+    
+}
+#inside{
+    height: 100%;
+    background-color: red;
+    border-radius: 12px;
+    width: 0px;
+   
+}
+#sideButton{
+    color: white; 
+    border-color: grey; 
+    background: none; 
+    height: 100%; 
+    width: 20%;
+    margin-left: 3%;
+}
+
+#number{
+    width:8%;
+    background: none;
+    color: white;
+}
+
